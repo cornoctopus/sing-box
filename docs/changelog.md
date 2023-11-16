@@ -1,3 +1,5 @@
+# :material-alert-decagram: ChangeLog
+
 #### 1.6.5
 
 * Fix crash if TUIC inbound authentication failed
